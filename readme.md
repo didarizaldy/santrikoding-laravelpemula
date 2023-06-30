@@ -33,3 +33,22 @@ Package yang digunakan pada project ini diantaranya yaitu :
 - Composer < 2.1
 - Git Bash
 - Mysql
+
+## How To Use
+
+1. Clone Project ini terlebih dahulu
+
+```bash
+  git clone https://github.com/didarizaldy/santrikoding-laravelpemula/
+```
+
+2. Jalankan composer
+
+```bash
+  composer install
+```
+3. Jalankan dengan menggunakan
+
+```php
+  php artisan serve
+```
